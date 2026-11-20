@@ -13,6 +13,7 @@
 - [Business Recommendations](#business-recommendations)
 - [Limitations](#limitations)
 - [Presentation](#presentation)
+- [Tableau Dashboard](#tableau-dashboard)
 - [Repository Structure](#repository-structure)
 - [How to Run the Project](#how-to-run-the-project)
 
@@ -223,6 +224,10 @@ Average and median ages were similar between Test and Control within each period
 The project presentation is available in the `slides/` folder. It summarises the A/B test, highlights the results from H1, H2, and H3 using graphs from the analysis notebooks, and presents the key takeaways and recommendations for Vanguard’s Customer Experience team.
 
 Tableau visualisations of client demographics and other exploratory findings are available in the `figures/` folder.
+
+## Tableau dashboard
+
+Link to Tableau dashboard: https://public.tableau.com/app/profile/telma.guerreiro/viz/ExperimentOverview/ExperimentOverview
 
 ## Repository Structure
 
